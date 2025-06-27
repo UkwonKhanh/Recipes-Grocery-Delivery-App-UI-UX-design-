@@ -1,4 +1,4 @@
-# Recipes-Grocery-Delivery-App-UI-UX-design
+# Recipes Grocery Delivery App Mid-Fidelity design
 This project is the mid-fidelity prototype for Recipes &amp; Grocery Delivery App (UI/UX design)
 
 
