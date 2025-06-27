@@ -13,3 +13,7 @@ This project is the mid-fidelity prototype for Recipes &amp; Grocery Delivery Ap
           - Decided colour scheme, font style, and graphic design elements based on research about the user group
     -  Evaluation - Evaluated using UI/UX heuristics
 - Please read the Report attached for more information.
+
+## Mid-fidelity Prototype
+- This prototype still lacks most functions, but has all the elements stated in the report.
+- Axure Prototype Link: https://lll2vg.axshare.com/ **(Please use the Sign Up button to try)** 
